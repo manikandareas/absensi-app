@@ -1,0 +1,1 @@
+ALTER TABLE "class_presences" ALTER COLUMN "barcode_id" DROP NOT NULL;

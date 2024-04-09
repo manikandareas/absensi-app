@@ -1,0 +1,1 @@
+ALTER TABLE "barcodes" ALTER COLUMN "url" SET NOT NULL;
